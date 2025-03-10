@@ -1,3 +1,5 @@
+import os
+os.system('pip install nltk scikit-learn streamlit')
 import json
 import random
 import nltk
